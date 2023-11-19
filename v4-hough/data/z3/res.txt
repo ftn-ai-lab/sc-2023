@@ -1,0 +1,11 @@
+file	sum
+video-0.avi 14
+video-1.avi	61
+video-2.avi	59
+video-3.avi	72
+video-4.avi	40
+video-5.avi	43
+video-6.avi	66
+video-7.avi	50
+video-8.avi	62
+video-9.avi	69
